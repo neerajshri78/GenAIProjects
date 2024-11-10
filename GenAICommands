@@ -1,1 +1,2 @@
-
+nlpsqlpython -m venv nlpnew  
+nlpnew\Scripts\Activate 
