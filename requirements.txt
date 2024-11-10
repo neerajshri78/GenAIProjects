@@ -1,0 +1,6 @@
+pandas
+langchain
+openai
+langchain_ollama
+langchain_openai
+load_dotenv
