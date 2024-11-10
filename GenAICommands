@@ -1,2 +1,3 @@
 nlpsqlpython -m venv nlpnew  
 nlpnew\Scripts\Activate 
+pip install -r requirement.txt
